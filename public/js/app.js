@@ -35,7 +35,7 @@ var states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
 	     ];
 
 $('.typeahead').typeahead({
-hint: true,
+hint: false,
 highlight: true,
 minLength: 1
 },

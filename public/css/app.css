@@ -2,8 +2,13 @@ body {
   margin-top: 15px;
 }
 
-#search {
+.twitter-typeahead {
   width: 100%;
 }
+
+.tt-input {
+  width: 700px;
+}
+
 
   
